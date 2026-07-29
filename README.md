@@ -1,0 +1,1 @@
+A collection of C++ programming lab assignments and practical exercises completed during my Bachelor of Science in Artificial Intelligence. This repository demonstrates my understanding of fundamental programming concepts, problem-solving skills, object-oriented programming principles, and implementation of C++ concepts through hands-on coding practice.
